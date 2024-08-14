@@ -14,4 +14,4 @@ The primary goal of this project is to enhance the hiring process by providing a
 5. Sampling Methods: Applies oversampling and undersampling to address class imbalance in the dataset.
 6. Hyperparameter Tuning: Optimizes model parameters to enhance performance.
 7. Evaluation: Assesses model performance using metrics such as accuracy, precision, recall, and F1-score.
-
+ 
